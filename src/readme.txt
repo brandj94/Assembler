@@ -1,1 +1,1 @@
-Locks up on the symbol table generation for some reason
+An assembler project I completed for my Computer Organization class
