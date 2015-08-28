@@ -1,0 +1,1 @@
+Locks up on the symbol table generation for some reason
